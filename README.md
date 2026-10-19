@@ -17,7 +17,7 @@
 
 - **Live Deployed Application:** [https://ais-dev-gc4ce45t2tavl5zdtbwptm-430729710002.asia-southeast1.run.app](https://ais-dev-gc4ce45t2tavl5zdtbwptm-430729710002.asia-southeast1.run.app)
 - **Shared Preview URL:** [https://ais-pre-gc4ce45t2tavl5zdtbwptm-430729710002.asia-southeast1.run.app](https://ais-pre-gc4ce45t2tavl5zdtbwptm-430729710002.asia-southeast1.run.app)
-- **GitHub Repository:** `https://github.com/tariksk786/InternHub-Production-Ready-Capstone-Overview'
+- **GitHub Repository:** `https://github.com/Yashikanagdeve29/Internhub-Production-Capstone'
 - **Walkthrough Video:** See [WALKTHROUGH_SCRIPT.md](WALKTHROUGH_SCRIPT.md) for recording script and upload checklist.
 
 ---
